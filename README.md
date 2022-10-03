@@ -14,7 +14,6 @@
 
 <a href="https://devfolio.co/@07Amandeep">
   <kbd>
-  <img align="centre" alt="Amandeep-Kaur's Devfolio" width="22px" src="https://avatars.githubusercontent.com/u/38809367?s=280&v=4" />
 </a>
 
 <a href="mailto:05adk2001@gmail.com">
