@@ -26,6 +26,7 @@
 <br/>
 
 
-- 🏫 2024 B.Tech.IT graduate from Panjab University, Punjab
+- 🏫 2024 M.Sc. Medical Physics from Panjab University, Punjab
+- 🏫 2021 B.Sc (Hons) Physics (Specialization in Electronics) from Panjab University, Punjab 
 - 🖇  Follow me on [LinkedIn](https://www.linkedin.com/in/amandeep-kaur-202585232/)
 - 👯 Pronouns: She/Her
